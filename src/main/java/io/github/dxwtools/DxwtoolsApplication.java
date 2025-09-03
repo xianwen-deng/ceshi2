@@ -8,6 +8,7 @@ public class DxwtoolsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DxwtoolsApplication.class, args);
+        System.out.println("args =" + args);
     }
 
 }
